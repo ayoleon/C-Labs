@@ -11,8 +11,9 @@ They may also compile and run in other environments (such as GCC or Clang).
 ## Key Concepts Practiced
 - **Loops** – `for`, `while`, and `do-while` structures for repetition  
 - **Arrays** – storing and manipulating collections of characters and numbers  
-- **Pointers** – working with memory addresses and dynamic behavior  
+- **Pointers** – working with memory addresses and dynamic behavior
 - **Functions (Methods)** – modularizing code into reusable components  
+- **Recursion / Recursive Functions** – solving problems by having functions call themselves, e.g., converting numbers to different bases  
 - **String Manipulation** – custom functions for reading, reversing, and modifying text  
 - **Input/Output** – safe user input handling with `fgets()` and formatted output  
 
