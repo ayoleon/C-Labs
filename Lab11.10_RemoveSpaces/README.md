@@ -8,7 +8,7 @@ This program demonstrates string manipulation in C by removing all spaces from a
 - In `main()`, the program repeatedly asks the user to enter a sentence (up to 29 characters). After processing, it displays the sentence without spaces. The loop continues until the user presses **Enter** on an empty line. 
 
 ## How to Compile and Run
-> ⚠️ This program was tested only in **Microsoft Visual Studio**. Behavior may vary slightly on other compilers.
+- This program was tested only in **Microsoft Visual Studio**. Behavior may vary slightly on other compilers.
 
 ### Using Visual Studio
 1. Open Visual Studio and create a new C project.  
