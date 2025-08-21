@@ -8,6 +8,7 @@ This program demonstrates string manipulation in C by removing all spaces from a
 - In `main()`, the program repeatedly asks the user to enter a sentence (up to 29 characters). After processing, it displays the sentence without spaces. The loop continues until the user presses **Enter** on an empty line.
   
 ## Example Run
+```text
 Enter a sentence to process. No more than 29 chharacters.
 Hello world
 Processed sentence: Helloworld
@@ -18,7 +19,7 @@ Enter next string or press enter to quit.
 This is a test
 Processed sentence: Thisisatest
 Enter next string or press enter to quit.
-
+```
 ## How to Compile and Run
 - This program was tested only in **Microsoft Visual Studio**. Behavior may vary slightly on other compilers.
 
