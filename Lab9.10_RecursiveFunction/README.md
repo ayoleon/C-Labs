@@ -13,6 +13,21 @@ This program demonstrates the use of **recursion** to convert an integer into an
 - **Loops** – The `do-while` loop in `main()` allows repeated input until the user decides to quit.  
 - **Input/Output** – Using `scanf_s` and `getchar()` for safe input and buffer management.  
 - **Mathematical Operations** – Integer division and modulus operations are used to calculate digits in the new base.
+## Example Run
+```text
+Enter number: 129
+Enter base number between 2 to 10 (Ex. 8 for base-8): 8
+129 in base-8 equivalent is: 201
+Do you want to enter another number? (Press 'q' to quit or any other key to continue): y
+Enter number: 45
+Enter base number between 2 to 10 (Ex. 8 for base-8): 2
+45 in base-2 equivalent is: 101101
+Do you want to enter another number? (Press 'q' to quit or any other key to continue): y
+Enter number: 100
+Enter base number between 2 to 10 (Ex. 8 for base-8): 5
+100 in base-5 equivalent is: 400
+Do you want to enter another number? (Press 'q' to quit or any other key to continue): q
+```
 
 ## How to Compile and Run
 > This program was tested in **Microsoft Visual Studio**.
