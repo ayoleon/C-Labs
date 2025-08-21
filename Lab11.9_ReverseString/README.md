@@ -16,6 +16,20 @@ This lab implements a C program that reverses the contents of a string entered b
   - `reverse()` – reverses the string in place.  
   - `main()` – orchestrates input/output and calls helper functions.  
 
+## Example Run
+```text
+Enter a sentence to process. No more than 29 chharacters.
+Hello world
+Hello world reversed is dlrow olleH
+Enter next string or press enter to quit.
+C programming
+C programming reversed is gnimmargorp C
+Enter next string or press enter to quit.
+abcdefg
+abcdefg reversed is gfedcba
+Enter next string or press enter to quit.
+```
+
 ## How to Compile and Run
 > This program was tested in **Microsoft Visual Studio**
 
